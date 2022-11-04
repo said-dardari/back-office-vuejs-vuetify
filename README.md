@@ -1,4 +1,4 @@
-# back-office-msafar
+# back-office-vuejs-vuetify
 
 ## Project setup
 ```
